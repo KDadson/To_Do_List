@@ -1,4 +1,3 @@
-Hello Workd 
 To-Do List Website Summary
 Overview:
 The To-Do List website is a user-friendly tool for managing tasks. Users can add, check, and delete tasks, with the data saved in the browser's local storage for persistence.
